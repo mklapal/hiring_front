@@ -1,0 +1,11 @@
+{
+    "Company": [
+      "About", "News", "Blog", "Team"
+    ],
+    "Products": [
+      "Legal information", "Terms of use", "Privacy policy", "Sitemap"
+    ],
+    "Customers": [
+      "Pricing and packages", "Help and support"
+    ]
+}
