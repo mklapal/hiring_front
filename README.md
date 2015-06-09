@@ -1,10 +1,10 @@
-Instructions - English
+#Instructions - English
 =========================
 
-Goal:
+##Goal:
 Integrate part of the webpage from the design provided in images folder.
 
-Details for integration:
+##Details for integration:
 - page uses fixed width 768px, all positions should fit within this width
 - use em units
 - you can use default font & approx. font size
@@ -14,7 +14,8 @@ Details for integration:
 - follow HTML5 and CSS3 rules and features
 - nothing else is strictly specified, you can use whatever tool/technique/approach you want
 
-Minimum requirements:
+##Minimum requirements:
+
 - pull repo from Github and work in your own branch
 - integrate "Retail chains index" section (that one with dark grey background) of the page including all elements and the copy upon visual (see attached PDF or AI or PNG in ```/visuals``` for more details)
 - bring JQuery library into this project
@@ -22,8 +23,14 @@ Minimum requirements:
 - add hover states for facebook icon top left (hover and active states use orange background)
 - create github pull request to this repository and provide the link
 
-Advanced (optional) - any of these will be taken as BIG plus for you:
+##Advanced (optional) - any of these will be taken as BIG plus for you:
 - use SASS/SCSS instead of pure CSS
 - set different breakpoints to support mobile, tablet and desktop (may use Bootstrap CSS or similar)
 - integrate header section with logo on the left and login box
 - integrate login box with onclick event similar to login box at [https://www.evaluesuite.com/](https://www.evaluesuite.com/) (just design + form, no login functionality needed)
+
+There is no limit to finish it. Just once you are done with at least minimum requirements create github pull request and ping me on michal.klapal@engagementlabs.com and hr@engagementlabs.com
+
+Good luck!
+
+Michal
